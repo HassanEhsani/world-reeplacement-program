@@ -4,5 +4,5 @@ def replace_world():
     word_replacment = input("Enter the word replacment: ")
     print(str.replace(word_to_replace,word_replacment))
 
-replace_world()
+replace_world();
 
